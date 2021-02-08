@@ -1,0 +1,7 @@
+C:\Users\Tomcii\source\repos\adventofcode\adventofcode\bin\Debug\adventofcode.exe.config
+C:\Users\Tomcii\source\repos\adventofcode\adventofcode\bin\Debug\adventofcode.exe
+C:\Users\Tomcii\source\repos\adventofcode\adventofcode\bin\Debug\adventofcode.pdb
+C:\Users\Tomcii\source\repos\adventofcode\adventofcode\obj\Debug\adventofcode.csprojAssemblyReference.cache
+C:\Users\Tomcii\source\repos\adventofcode\adventofcode\obj\Debug\adventofcode.csproj.CoreCompileInputs.cache
+C:\Users\Tomcii\source\repos\adventofcode\adventofcode\obj\Debug\adventofcode.exe
+C:\Users\Tomcii\source\repos\adventofcode\adventofcode\obj\Debug\adventofcode.pdb
